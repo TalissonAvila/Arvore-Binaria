@@ -1,4 +1,4 @@
-package br.edu.ifce.computacao.estrutura.arvorebinaria;
+package arvorebinaria;
 
 public class ArvoreBinaria<T> {
 	
